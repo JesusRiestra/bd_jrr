@@ -6,8 +6,8 @@ diccionario = {
     "kiwi": "5€" 
 }
 
-input = input("Introduce el nombre de una fruta: ").lower()
-if input in diccionario:
-    print(diccionario[input])
+fruta = input("Introduce el nombre de una fruta: ").lower()
+if fruta in diccionario:
+    print(diccionario[fruta])
 else:
     print("No ésta disponible")
