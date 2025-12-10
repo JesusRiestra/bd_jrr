@@ -5,3 +5,4 @@
 - [**PR0203: Estructuras avanzadas en Redis**](./ut02/pr0203estructuras.md)
 - [**PR0204: Datos geoespaciales en Redis**](./ut02/pr0204geoespaciales.md)
 - [**PR0205: Escritura de datos en InfluxDB**](./ut02/pr0205datosinflux.md)
+- [**PR0206: Ingesta de datos InfluxDB**](./ut02/pr0206ingestacrypto.md)
