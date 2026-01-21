@@ -6,4 +6,5 @@
 - [**PR0401: Contando palabras**](./ut04/pr0401contarpalabras.md)
 - [**PR0402: Datos del clima**](./ut04/pr0402datosclima.md)
 - [**PR0403: Analisis de logs**](./ut04/pr0403analisislogs.md)
+- [**PR0404: Patrones de diseño MapReduce**](./ut04/pr0404patrones.md)
 - [**PR0501: Carga de ficheros CSV en PySpark**](./ut05/pr0501ingestadatosspark.md)
