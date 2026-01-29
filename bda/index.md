@@ -8,4 +8,5 @@
 - [**PR0403: Analisis de logs**](./ut04/pr0403analisislogs.md)
 - [**PR0404: Patrones de diseño MapReduce**](./ut04/pr0404patrones.md)
 - [**PR0501: Carga de ficheros CSV en PySpark**](./ut05/pr0501ingestadatosspark.md)
+- [**PR0502: Manipulación básica de dataframes**](./ut05/pr0502manipulacionbasica.md)
 - [**PR0503: Limpieza de datos sobre dataset de cultivos**](./ut05/pr0503limpiezadatos.md)
