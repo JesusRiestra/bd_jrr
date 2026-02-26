@@ -11,3 +11,4 @@
 - [**PR0502: Manipulación básica de dataframes**](./ut05/pr0502manipulacionbasica.md)
 - [**PR0503: Limpieza de datos sobre dataset de cultivos**](./ut05/pr0503limpiezadatos.md)
 - [**PR0504A: Limpieza de datos sobre dataset de lugares famosos**](./ut05/pr0504Alimpiezadatosfamosos.md)
+- [**PR0505: Datos estadísticos**](./ut05/pr0505analisisestadistica.md)
