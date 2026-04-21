@@ -10,4 +10,4 @@
 - [**PR0301: Ingesta de datos de archivos CSV, JSON y Excel (I)**](./ut03/pr0301lecturadatos.md)
 - [**PR0302: Ingesta de datos de archivos CSV, JSON y Excel (II)**](./ut03/pr0302lecturadatos2.md)
 - [**PR0303: Ingesta de datos de APIs REST**](./ut03/pr0303apirest.md)
-- [**PR0501: Introducción a Vega Altair**](./ut05/pr0501introduccionvegaaltair.ipynb)
+- [**PR0501: Introducción a Vega Altair**](./ut05/pr0501introduccionvegaaltair.md)
