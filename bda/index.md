@@ -13,3 +13,4 @@
 - [**PR0504A: Limpieza de datos sobre dataset de lugares famosos**](./ut05/pr0504Alimpiezadatosfamosos.md)
 - [**PR0505: Datos estadísticos**](./ut05/pr0505analisisestadistica.md)
 - [**PR0506: Comportamiento usuarios Netflix**](./ut05/pr0506analisiscomportamiento.md)
+- [**PR0602: AWS Lambda**](./ut06/pr0602AWSLambda.md)
